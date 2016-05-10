@@ -1,5 +1,5 @@
 .column {
-  width: 300px;
+  width: 33%;
   float: left;
 }
 
@@ -11,5 +11,12 @@
 .best {
   font-weight: bold;
   font-style: oblique;
-  font-family: Georgia;  
+  font-family: Georgia;
+}
+
+.spaces {
+  border: 5px dashed purple;
+  background-color: yellow;
+  padding: 5px;
+  margin-bottom: 25px;
 }
